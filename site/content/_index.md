@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Takkan Melayu Hilang Di Dunia"
+subtitle: SEJAK zaman akhir prasejarah lagi kehebatan orang Melayu sememangnya terserlah dalam dunia pelayaran antarabangsa. 
 image: /img/banner-shafiq.jpg
 blurb:
     heading: Why Kaldi?
